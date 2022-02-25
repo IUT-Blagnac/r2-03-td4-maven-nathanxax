@@ -1,3 +1,3 @@
-Pour documentez votre projet executez : 
+Pour documentez votre projet executez :
 	mvn install
 La JavaDoc ce génerera donc dans le fichier target.
